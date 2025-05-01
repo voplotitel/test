@@ -1,0 +1,9 @@
+{
+  "version": "0.000002",
+  "language": "auto",
+  "launch_file": "game.exe",
+  "auto_backup": false,
+  "update_check": true,
+  "update_url": "https://raw.githubusercontent.com/voplotitel/test/main/version.txt",
+  "download_url": "https://github.com/voplotitel/test/releases/latest/download/game.exe"
+}
