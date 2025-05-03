@@ -5,5 +5,19 @@
   "auto_backup": false,
   "update_check": true,
   "update_url": "https://raw.githubusercontent.com/voplotitel/test/main/version.txt",
-  "download_url": "https://github.com/voplotitel/test/releases/latest/download/game.exe"
+  "download_url": "https://github.com/voplotitel/test/releases/latest/download/game.exe",
+  "files": {
+    "game.exe": {
+      "version": "0.000002",
+      "url": "https://github.com/voplotitel/test/releases/latest/download/game.exe"
+    },
+    "config.json": {
+      "version": "0.000002",
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/config.json"
+    },
+    "update_launcher.bat": { 
+      "version": "0.000002",
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/update_launcher.bat"
+    }
+  }
 }
