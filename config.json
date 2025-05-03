@@ -15,9 +15,9 @@
       "version": "0.000002",
       "url": "https://raw.githubusercontent.com/voplotitel/test/main/config.json"
     },
-    "update_launcher.bat": { 
+    "local_versions.json": { 
       "version": "0.000002",
-      "url": "https://raw.githubusercontent.com/voplotitel/test/main/update_launcher.bat"
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/local_versions.json"
     }
   }
 }
