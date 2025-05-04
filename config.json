@@ -18,6 +18,10 @@
     "local_versions.json": { 
       "version": "0.000002",
       "url": "https://raw.githubusercontent.com/voplotitel/test/main/local_versions.json"
+    },
+    "ubdate_launcher.bat": { 
+      "version": "0.000002",
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/ubdate_launcher.bat"
     }
   }
 }
