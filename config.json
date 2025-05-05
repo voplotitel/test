@@ -26,6 +26,16 @@
       "version": "0.000002",
       "url": "https://raw.githubusercontent.com/voplotitel/test/main/local_versions.json",
       "sha256": ""
-    }
+    },
+    "updater.exe": {
+      "version": "0.000002",
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/updater.exe",
+      "sha256": ""
+    },
+    "launcher": {
+      "version": "0.000002",
+      "url": "https://github.com/voplotitel/test/raw/main/launcher_new.exe"
+      "sha256": ""
+}
   }
 }
