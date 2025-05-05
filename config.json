@@ -9,19 +9,23 @@
   "files": {
     "game.exe": {
       "version": "0.000002",
-      "url": "https://raw.githubusercontent.com/voplotitel/test/main/game.exe"
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/game.exe",
+      "sha256": ""
+    },
+    "Shadow Stocks.exe": {
+      "version": "0.000002",
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/Shadow%20Stocks.exe",
+      "sha256": ""
     },
     "config.json": {
       "version": "0.000002",
-      "url": "https://raw.githubusercontent.com/voplotitel/test/main/config.json"
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/config.json",
+      "sha256": ""
     },
-    "local_versions.json": { 
+    "local_versions.json": {
       "version": "0.000002",
-      "url": "https://raw.githubusercontent.com/voplotitel/test/main/local_versions.json"
-    },
-    "ubdate_launcher.bat": { 
-      "version": "0.000002",
-      "url": "https://raw.githubusercontent.com/voplotitel/test/main/ubdate_launcher.bat"
+      "url": "https://raw.githubusercontent.com/voplotitel/test/main/local_versions.json",
+      "sha256": ""
     }
   }
 }
