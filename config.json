@@ -28,7 +28,7 @@
       "sha256": ""
     },
     "updater.exe": {
-      "version": "0.000002",
+      "version": "0.000003",
       "url": "https://raw.githubusercontent.com/voplotitel/test/main/updater.exe",
       "sha256": ""
     },
